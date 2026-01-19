@@ -1,25 +1,26 @@
 # 🤖 AI Job Search & Resume Tailoring Agent (Local LLM)
 
-An autonomous AI agent that searches for jobs, ranks them by relevance and urgency, and automatically generates tailored resumes and cover letters using a local LLM (Ollama).  
+An autonomous AI agent that finds relevant job postings, ranks them by relevance and urgency, and automatically generates tailored resumes and cover letters using a local LLM (Ollama).
+
 Includes a Streamlit UI for one-click demo usage.
 
 ---
 
 ## 🚀 Project Overview
 
-This project demonstrates how to build a real-world AI agent that:
+This project demonstrates how to build a real-world AI agent that can:
 
-- Searches for relevant job postings
-- Evaluates each job using an LLM
+- Search for relevant job openings
+- Analyze each job using an LLM:
   - Relevance classification
   - Numeric scoring
   - Urgency detection
-- Ranks jobs automatically
-- Generates a job-specific resume
-- Generates a customized cover letter
-- Uses fallback logic when job search fails
+- Automatically rank jobs
+- Generate job-specific resumes
+- Create customized cover letters
+- Use fallback logic when job search fails
 
-All intelligence runs locally — no paid APIs.
+All intelligence runs **locally** — no paid APIs required.
 
 ---
 
@@ -27,9 +28,9 @@ All intelligence runs locally — no paid APIs.
 
 This system qualifies as an AI agent because it:
 
-- Makes autonomous decisions (job ranking & selection)
+- Makes autonomous decisions (job evaluation and ranking)
 - Uses tools (job search, resume generation)
-- Maintains structured memory (user_profile.json)
+- Maintains structured memory (`user_profile.json`)
 - Handles failures gracefully (seeded job fallback)
 - Produces actionable outputs, not just text
 
@@ -109,7 +110,7 @@ pip install -r requirements.txt
 
 ## ▶️ How to Run (CLI)
 
-### Day 2 — Job Intelligence
+### 1— Job Intelligence
 
 python run_test.py
 
@@ -121,7 +122,7 @@ Output:
 
 ---
 
-### Day 3 — Resume Generation
+### 2 — Resume Generation
 
 python run_day3.py
 
@@ -175,7 +176,7 @@ This is a real-world engineering pattern.
 
 ## 🗣️ Interview Explanation (Short)
 
-“I built a local AI agent that autonomously finds jobs, ranks them by relevance and urgency, and generates job-specific resumes and cover letters. The system includes fallback strategies to handle unreliable data sources, making it robust and production-oriented.”
+“I built a local AI agent that autonomously searches for jobs, ranks them based on relevance and urgency, and generates job-specific resumes and cover letters. The system includes fallback strategies to handle unreliable data sources, making it robust and production-ready.”
 
 ---
 
@@ -191,11 +192,8 @@ This is a real-world engineering pattern.
 
 ## 👤 Author
 
-Jaya Krishna  
-Aspiring Software / Backend Engineer  
+Shilendra Narra
+Aspiring Software Engineer  
 
 ---
 
-## ⭐ If You Like This Project
-
-Star the repository and feel free to fork or extend it.
