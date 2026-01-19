@@ -1,0 +1,15 @@
+Name: Jaya Krishna
+
+Education:
+B.Tech in Computer Science
+XYZ University
+
+Skills:
+Python, Java, SQL, Git, Data Structures
+
+Projects:
+- Job Search Agent using Python and LLMs
+- REST API using Flask
+
+Experience:
+- Student developer

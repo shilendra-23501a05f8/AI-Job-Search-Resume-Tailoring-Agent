@@ -1,0 +1,14 @@
+Here is a short, professional cover letter:
+
+Dear Hiring Manager,
+
+I am excited to apply for the Software Engineer Intern position at your esteemed organization. With my strong foundation in computer science and proficiency in Python programming language, I am confident that my skills align with the job requirements.
+
+As a student developer, I have hands-on experience in software development, focusing on backend development and data manipulation using Python, SQL, and REST APIs. My projects showcase my ability to apply machine learning concepts to real-world problems and build scalable and efficient backend applications. I am proud of my project, Job Search Agent, which utilized Large Language Models (LLMs) to demonstrate proficiency in applying machine learning concepts to real-world problems.
+
+I am eager to bring my skills and experience to a dynamic organization like yours. My strong foundation in data structures, combined with my proficiency in Python programming language, SQL, and REST APIs, make me an ideal candidate for this internship. I am excited about the opportunity to learn from experienced professionals and contribute to innovative projects.
+
+Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+Jaya Krishna

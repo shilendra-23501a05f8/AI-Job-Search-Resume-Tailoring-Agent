@@ -1,0 +1,62 @@
+{
+  "name": "Jaya Krishna",
+
+  "contact": {
+    "email": "your_email@example.com",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername"
+  },
+
+  "target_roles": [
+    "Software Engineer Intern",
+    "Backend Developer Intern",
+    "Python Developer Intern"
+  ],
+
+  "preferred_domains": [
+    "backend",
+    "web development",
+    "software engineering"
+  ],
+
+  "skills": {
+    "programming_languages": ["Python", "Java"],
+    "core_cs": ["Data Structures", "Algorithms", "OOP"],
+    "databases": ["SQL"],
+    "tools": ["Git", "GitHub"],
+    "frameworks": ["Flask", "FastAPI"],
+    "concepts": ["REST APIs", "MVC Architecture"]
+  },
+
+  "projects": [
+    {
+      "name": "AI Job Search Agent",
+      "description": "Built an AI agent that searches jobs, ranks relevance, and tailors resumes using LLMs",
+      "tech_stack": ["Python", "Ollama", "LangChain"]
+    },
+    {
+      "name": "Backend REST API",
+      "description": "Developed REST APIs with authentication and database integration",
+      "tech_stack": ["Python", "Flask", "SQL"]
+    }
+  ],
+
+  "job_preferences": {
+    "job_type": "Internship",
+    "location": "India",
+    "remote": true,
+    "experience_level": "Student",
+    "minimum_duration_months": 2
+  },
+
+  "availability": {
+    "start_date": "Immediate",
+    "hours_per_week": 30
+  },
+
+  "resume_constraints": {
+    "max_pages": 1,
+    "tone": "professional",
+    "allow_keyword_optimization": true
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Software Engineer Intern \u00e2\u20ac\u201c Backend",
+    "url": "https://company.com/careers/software-engineer-intern",
+    "snippet": "Looking for a Software Engineer Intern with Python, SQL, REST APIs, and backend development experience.",
+    "role": "Backend Developer Intern",
+    "relevance": "Highly Relevant",
+    "score": 96,
+    "urgency": "High."
+  },
+  {
+    "title": "Software Engineer Intern \u00e2\u20ac\u201c Backend",
+    "url": "https://company.com/careers/software-engineer-intern",
+    "snippet": "Looking for a Software Engineer Intern with Python, SQL, REST APIs, and backend development experience.",
+    "role": "Python Developer Intern",
+    "relevance": "Highly Relevant",
+    "score": 95,
+    "urgency": "Medium"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "url": "https://startup.com/jobs/backend-intern",
+    "snippet": "Backend Developer Intern role involving Flask, APIs, databases, and Git.",
+    "role": "Software Engineer Intern",
+    "relevance": "Highly Relevant",
+    "score": 94,
+    "urgency": "Medium"
+  },
+  {
+    "title": "Software Engineer Intern \u00e2\u20ac\u201c Backend",
+    "url": "https://company.com/careers/software-engineer-intern",
+    "snippet": "Looking for a Software Engineer Intern with Python, SQL, REST APIs, and backend development experience.",
+    "role": "Software Engineer Intern",
+    "relevance": "Highly Relevant",
+    "score": 87,
+    "urgency": "High"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "url": "https://startup.com/jobs/backend-intern",
+    "snippet": "Backend Developer Intern role involving Flask, APIs, databases, and Git.",
+    "role": "Python Developer Intern",
+    "relevance": "Highly Relevant",
+    "score": 87,
+    "urgency": "Medium"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "url": "https://startup.com/jobs/backend-intern",
+    "snippet": "Backend Developer Intern role involving Flask, APIs, databases, and Git.",
+    "role": "Backend Developer Intern",
+    "relevance": "Highly Relevant",
+    "score": 74,
+    "urgency": "Medium"
+  }
+]

@@ -1,0 +1,18 @@
+Here is the rewritten resume:
+
+Name: Jaya Krishna
+
+Education:
+B.Tech in Computer Science, XYZ University
+
+Skills:
+Python programming language expertise with applications in backend development; Proficient in SQL for data manipulation and querying; Familiarity with REST APIs using Flask framework; Experience with Git version control system; Strong foundation in Data Structures.
+
+Projects:
+- Designed and developed a Job Search Agent using Python and Large Language Models (LLMs), demonstrating proficiency in applying machine learning concepts to real-world problems.
+- Built a REST API using Flask, showcasing expertise in building scalable and efficient backend applications.
+
+Experience:
+- Student developer with hands-on experience in software development, focusing on backend development and data manipulation using Python, SQL, and REST APIs.
+
+I hope this rewritten resume meets the job requirements! Let me know if you'd like any further adjustments.
