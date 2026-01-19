@@ -192,9 +192,10 @@ This is a real-world engineering pattern.
 
 ## 👤 Author
 
-Shilendra Narra,
-Aspiring Software Engineer  
+- Shilendra Narra
+- Aspiring Software Engineer  
 
 ---
+
 
 
